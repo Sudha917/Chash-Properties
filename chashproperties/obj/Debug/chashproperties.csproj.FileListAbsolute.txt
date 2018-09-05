@@ -1,0 +1,7 @@
+G:\.net traing\Assignments\Day04\chashproperties\chashproperties\bin\Debug\chashproperties.exe.config
+G:\.net traing\Assignments\Day04\chashproperties\chashproperties\bin\Debug\chashproperties.exe
+G:\.net traing\Assignments\Day04\chashproperties\chashproperties\bin\Debug\chashproperties.pdb
+G:\.net traing\Assignments\Day04\chashproperties\chashproperties\obj\Debug\chashproperties.csprojAssemblyReference.cache
+G:\.net traing\Assignments\Day04\chashproperties\chashproperties\obj\Debug\chashproperties.csproj.CoreCompileInputs.cache
+G:\.net traing\Assignments\Day04\chashproperties\chashproperties\obj\Debug\chashproperties.exe
+G:\.net traing\Assignments\Day04\chashproperties\chashproperties\obj\Debug\chashproperties.pdb
